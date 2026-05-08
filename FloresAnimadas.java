@@ -169,7 +169,7 @@ public class FloresAnimadas extends JPanel {
 
     private final List<Flor> flores = new ArrayList<>();
     private final int CANTIDAD_FLORES = 9;
-    private final int VELOCIDAD_BASE = 2;
+    private final int VELOCIDAD_BASE = 4; // Integrante B: mayor velocidad
     private int tick = 0;
 
     public FloresAnimadas() {
