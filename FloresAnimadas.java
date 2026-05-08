@@ -49,7 +49,7 @@ public class FloresAnimadas extends JPanel {
     }
 
     private final List<Flor> flores = new ArrayList<>();
-    private final int CANTIDAD_FLORES = 6;
+    private final int CANTIDAD_FLORES = 15; // Integrante A: mas flores
     private final int VELOCIDAD_BASE = 2;
 
     public FloresAnimadas() {
